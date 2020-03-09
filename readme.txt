@@ -1,10 +1,15 @@
-1. Ô­Ê¼train excel Õ¹¿ªÎª train_fenlie.csv ¾­¹ıÌØÕ÷Ñ¡Ôñ µÃµ½ train_fenlie1.csv
-2. ÀûÓÃ Baseline_train_fenlie1.ipynb ( Ç°1000ÀıÊı¾İ)¹¹½¨pipeline "tpot_medical_pipeline_fenlie1.py"
+æœ¬æ–‡æ•°æ®æ¥æºï¼šhttps://www.dcjingsai.com/common/cmpt/AI%E6%88%98%E7%96%AB%C2%B7%E5%B0%8F%E5%88%86%E5%AD%90%E6%88%90%E8%8D%AF%E5%B1%9E%E6%80%A7%E9%A2%84%E6%B5%8B%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html
 
-3.ÔËĞĞpipelineÎÄ¼ş tpot_medical_pipeline_fenlie1.py Éú³É Ä£ĞÍ tpot_medical_pipeline_fenlie1.py
+è‹¥ä¸æä¾›ä¸‹è½½äº†å¯è”é‚®ç®±297884974@qq.com
 
-4. excel µ÷Õû test_noLabel.csv  µ½ test.csv£¨ÓëÑµÁ·¼¯¸ñÊ½ÏàÍ¬£©
 
-5. test_medical.py ²âÊÔ²¢Éú³ÉÌá½»ÎÄ¼ş upload.csv ÓÃexcelÉ¾³ı¶àÓàÁĞ 
+1. åŸå§‹train excel å±•å¼€ä¸º train_fenlie.csv ç»è¿‡ç‰¹å¾é€‰æ‹© å¾—åˆ° train_fenlie1.csv
+2. åˆ©ç”¨ Baseline_train_fenlie1.ipynb ( å‰1000ä¾‹æ•°æ®)æ„å»ºpipeline "tpot_medical_pipeline_fenlie1.py"
 
-6. ½áÊø
+3.è¿è¡Œpipelineæ–‡ä»¶ tpot_medical_pipeline_fenlie1.py ç”Ÿæˆ æ¨¡å‹ tpot_medical_pipeline_fenlie1.py
+
+4. excel è°ƒæ•´ test_noLabel.csv  åˆ° test.csvï¼ˆä¸è®­ç»ƒé›†æ ¼å¼ç›¸åŒï¼‰
+
+5. test_medical.py æµ‹è¯•å¹¶ç”Ÿæˆæäº¤æ–‡ä»¶ upload.csv ç”¨excelåˆ é™¤å¤šä½™åˆ— 
+
+6. ç»“æŸ
